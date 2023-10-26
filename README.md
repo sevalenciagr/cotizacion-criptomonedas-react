@@ -2,7 +2,8 @@
 
 Este proyecto de React se enfoca en la creación de Custom Hooks, Styled Components y el consumo de APIs. Su propósito principal es permitir a los usuarios cotizar las criptomonedas más importantes del momento con respecto a algunas monedas clave, como el dólar estadounidense, el euro, el peso mexicano, el peso colombiano y la libra esterlina.
 
-![Captura de pantalla del proyecto](screenshot.png)
+![criptomonedas](https://github.com/sevalenciagr/cotizacion-criptomonedas-react/assets/88304046/9c76056b-4227-4bd4-a26d-ffd721199d36)
+
 
 ## Características Principales
 
